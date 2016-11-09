@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="exit">Exit</string>
+    <string name="second_window">Second window</string>
+    <string name="call">Call</string>
+    <string name="go">Go</string>
+    <string name="info_back">Send text back</string>
+    <string name="result_from_second_window">Result from second window</string>
+</resources>
